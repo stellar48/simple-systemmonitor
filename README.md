@@ -15,6 +15,7 @@ Menampilkan penggunaan CPU, RAM, dan status GPU AMD secara real-time.
    ```bash
    pip install psutil wmi
 2. Menjalankan:
+   ```bash
    python monitor.py
 
 Requirements
